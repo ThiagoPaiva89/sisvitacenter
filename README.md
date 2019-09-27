@@ -10,8 +10,8 @@ O valor recebido pela Caixa Econômica é de acordo com o quantitativo de massag
 empresa criou um programa de insentivo aos massoterapeutas, onde são traçadas metas de atendimentos e essas são gravadas na planiha e computadas
 ao término de cada mês, para que o quantitativo seja aferido e para que haja o resultado da meta estabelecida.
 O sistema trará a solução para este problema de inconsisência dos dados gerados e tem a proposta de estabelecer uma padronização entre as 
-unidades de toto o Brasil, uma vez que os colaboradores responsáveis pelo administrativo de cada estado são os responsáveis por confeccionar
-essas planilhas.
+unidades de todo o Brasil, uma vez que os colaboradores responsáveis pelo administrativo de cada estado são os responsáveis por confeccionar
+essas planilhas. Essa aplicação irá gerar um relatório do quantitativo de massagens realizadas por cada profissional e a média diária.
 
 Além do serviço de massoterapia, a clínica conta com atendimentos de fisioterapia, psicologia e fonoaudiologia em domicílio. Esse serviço
 necessita de um controle rígido, uma vez que os convênios do qual a clínica presta os atendimentos dispoem de prazos para as autorizações 

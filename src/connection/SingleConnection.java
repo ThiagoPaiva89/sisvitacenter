@@ -10,7 +10,7 @@ import java.sql.DriverManager;
 public class SingleConnection {
 
 	
-	private static String banco = "jdbc:postgresql://localhost:5432/vitadata?autoReconnect=true";; // nome e endereço do banco de dados
+	private static String banco = "jdbc:postgresql://localhost:5432/vitadata?autoReconnect=true"; // nome e endereço do banco de dados
 
 	private static String user = "postgres"; 	// usuário do banco de dados
 	
